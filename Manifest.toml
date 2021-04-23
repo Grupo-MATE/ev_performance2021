@@ -554,6 +554,12 @@ git-tree-sha1 = "e6ea89d915cdad8d264f7f9158c6664f879edcde"
 uuid = "d3a379c0-f9a3-5b72-a4c0-6bf4d2e8af0f"
 version = "2.9.0+0"
 
+[[Loess]]
+deps = ["Distances", "LinearAlgebra", "Statistics"]
+git-tree-sha1 = "b5254a86cf65944c68ed938e575f5c81d5dfe4cb"
+uuid = "4345ca2d-374a-55d4-8d30-97f9976e7612"
+version = "0.5.3"
+
 [[LogExpFunctions]]
 deps = ["DocStringExtensions"]
 git-tree-sha1 = "49c5c32deda5999d15378b64ee10f2e87831ab25"
